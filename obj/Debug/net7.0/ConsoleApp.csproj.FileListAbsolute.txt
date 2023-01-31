@@ -1,0 +1,15 @@
+/Users/phuoctran/net7/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/phuoctran/net7/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/phuoctran/net7/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/phuoctran/net7/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/phuoctran/net7/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/phuoctran/net7/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
